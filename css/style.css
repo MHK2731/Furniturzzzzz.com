@@ -15,7 +15,7 @@ body {
   line-height: 28px;
   color: #6a6a6a;
   font-size: 14px;
-  background-color: #eff2f1; }
+  background-color: #faf8f5; }
 
 a {
   text-decoration: none;
@@ -31,7 +31,7 @@ a {
     font-weight: 600; }
 
 .custom-navbar {
-  background: #3b5d50 !important;
+  background: #5c4033 !important;
   padding-top: 20px;
   padding-bottom: 20px; }
   .custom-navbar .navbar-brand {
@@ -64,7 +64,7 @@ a {
         bottom: 0;
         left: 8px;
         right: 8px;
-        background: #f9bf29;
+        background: #d4a574;
         height: 5px;
         opacity: 1;
         visibility: visible;
@@ -96,7 +96,7 @@ a {
         margin-right: 20px; }
 
 .hero {
-  background: #3b5d50;
+  background: #5c4033;
   padding: calc(4rem - 30px) 0 0rem 0; }
   @media (min-width: 768px) {
     .hero {
@@ -174,18 +174,18 @@ a {
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #3b5d50;
-    border-color: #3b5d50; }
+    background: #5c4033;
+    border-color: #5c4033; }
     .btn.btn-primary:hover {
-      background: #314d43;
-      border-color: #314d43; }
+      background: #48342a;
+      border-color: #48342a; }
   .btn.btn-secondary {
     color: #2f2f2f;
-    background: #f9bf29;
-    border-color: #f9bf29; }
+    background: #d4a574;
+    border-color: #d4a574; }
     .btn.btn-secondary:hover {
-      background: #f8b810;
-      border-color: #f8b810; }
+      background: #c49563;
+      border-color: #c49563; }
   .btn.btn-white-outline {
     background: transparent;
     border-width: 2px;
@@ -253,7 +253,7 @@ a {
       right: 0;
       position: absolute;
       content: "";
-      background: #dce5e4;
+      background: #e8dfd7;
       height: 0%;
       z-index: -1;
       border-radius: 10px;
@@ -299,7 +299,7 @@ a {
       width: 33px;
       height: 33px;
       position: absolute;
-      background: rgba(59, 93, 80, 0.2);
+      background: rgba(92, 64, 51, 0.2);
       border-radius: 50%;
       right: -8px;
       bottom: 0; }
@@ -374,7 +374,7 @@ a {
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #3b5d50;
+      border: 2px solid #5c4033;
       position: absolute;
       left: 0;
       top: 8px; }
@@ -407,7 +407,7 @@ a {
       content: "";
       position: absolute;
       border-radius: 20px;
-      background: #dce5e4;
+      background: #e8dfd7;
       width: 98px;
       height: 98px;
       top: 50%;
@@ -456,13 +456,13 @@ a {
       height: 58px;
       line-height: 58px;
       border-radius: 50%;
-      background: rgba(59, 93, 80, 0.1);
+      background: rgba(92, 64, 51, 0.1);
       color: #2f2f2f;
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .testimonial-slider-wrap #testimonial-nav > span:hover {
-        background: #3b5d50;
+        background: #5c4033;
         color: #ffffff; }
     .testimonial-slider-wrap #testimonial-nav .prev {
       left: -10px; }
